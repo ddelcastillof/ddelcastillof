@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 ### I'm Darwin Del Castillo-Fernández (pronouns: Él/He/Him) 
 
