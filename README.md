@@ -9,8 +9,8 @@ I am a physician who works at the intersection of epidemiology and health data s
 - More info about me on my website: https://ddelcastillof.github.io/darwindelcastillo/
   
 ### Skills
-![Stata](https://img.shields.io/badge/-Stata-1f5582?style=flat&logo=stata)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Code](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=stata&logoColor=white&color=1f5582)
+![Code](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
+![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![Tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
