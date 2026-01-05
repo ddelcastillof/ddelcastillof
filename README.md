@@ -4,7 +4,7 @@
 
 I am a physician who works at the intersection of epidemiology and health data science, tackling global health challenges.
 
-- I’m passionate about uncovering how our earliest exposures shape our risk of young-onset cardiometabolic diseases.
+- I’m passionate about uncovering how our earliest exposures shape our risk of youth and adult-onset cardiometabolic diseases.
 - I handle problems by using reproducible methods and applying both data science and epidemiological methods, motivated by causal questions.
 - More info about me on my website: https://ddelcastillof.github.io/delcastillo/
   
