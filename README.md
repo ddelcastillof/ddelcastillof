@@ -1,22 +1,33 @@
 ## Hello there 👋
 
-### I'm Darwin Del Castillo-Fernández (pronouns: Él/He/Him) 
+### I'm Darwin Del Castillo-Fernández
+**Epidemiologist | Health Data Scientist | Causal Inference**  
+Pronouns: él/he/him
 
-I am a physician who works at the intersection of epidemiology and health data science, tackling global health challenges.
+I'm a physician-epidemiologist investigating how economic and social determinants drive cardiometabolic disease risk across the life course. I combine causal inference methods with reproducible analytics on large-scale survey and administrative datasets to generate evidence for policymaking.
 
-- I’m passionate about uncovering how our earliest exposures shape our risk of youth and adult-onset cardiometabolic diseases.
-- I handle problems by using reproducible methods and applying both data science and epidemiological methods, motivated by causal questions.
-- More info about me on my website: https://ddelcastillof.github.io/delcastillo/
-  
-### Skills (proficiency order)
-![Code](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
-![Code](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=stata&logoColor=white&color=1f5582)
-![Code](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+**Currently:** Research Assistant at the [University of Glasgow](https://www.gla.ac.uk/), School of Health and Wellbeing
 
-### Other tools (in no particular order)
-![Code](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![Shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![Tools](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![Code](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
-![Code](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1f5582)
+### Research Focus
+- **Social determinants of health (SDH)** and cardiometabolic disease inequality
+- **Causal inference methods:**
+- **Life course epidemiology** and longitudinal data analysis
+- **Disease burden estimation**
 
+### Methods & Tools
+
+**Primary Languages**
+![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
+![Stata](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=stata&logoColor=white&color=1f5582)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+
+**Additional Tools & Technologies**
+![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
+![LaTeX](https://img.shields.io/badge/Typesetting-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=008080)
+![HTML/CSS](https://img.shields.io/badge/Web-HTML%2FCSS-informational?style=flat&logo=html5&logoColor=white&color=E34C26)
+
+### Get in Touch
+- **Website:** https://ddelcastillof.github.io/delcastillo/
+- **ORCID:** [0000-0002-8609-0312](https://orcid.org/0000-0002-8609-0312)
