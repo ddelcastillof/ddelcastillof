@@ -12,7 +12,7 @@ I'm a physician-epidemiologist investigating how economic and social determinant
 
 ### Research Focus
 - **Social determinants of health (SDH)** and cardiometabolic disease inequality
-- **Causal inference methods:**
+- **Causal inference methods**
 - **Life course epidemiology** and longitudinal data analysis
 - **Disease burden estimation**
 
