@@ -4,7 +4,7 @@
 
 **Epidemiologist | Health Data Scientist | Causal Inference**
 
-Pronouns: él/he/him
+Pronouns: he/him/él
 
 I'm a physician-epidemiologist investigating how economic and social determinants drive cardiometabolic disease risk across the life course. I combine causal inference methods with reproducible analytics on large-scale survey and administrative datasets to generate evidence for policymaking.
 
