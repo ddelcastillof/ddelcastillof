@@ -22,7 +22,7 @@ I'm a physician-epidemiologist investigating how economic and social determinant
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 ![Stata](https://img.shields.io/badge/Code-Stata-informational?style=flat&logo=stata&logoColor=white&color=1f5582)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
-
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=ED8B00)
 **Additional Tools:** &emsp;
 ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
