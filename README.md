@@ -11,10 +11,9 @@ I'm a physician-epidemiologist investigating how economic and social determinant
 **Currently:** Research Assistant at the [School of Health and Wellbeing – University of Glasgow](https://www.gla.ac.uk/schools/healthwellbeing/staff/darwindelcastillofernandez/)
 
 ### Research Focus
-- **Social determinants of health (SDH)** and cardiometabolic disease inequalities
-- **Causal inference methods** including causal machine learning
-- **Life course epidemiology** and longitudinal data analysis
-- **Disease burden estimation**
+- **Social determinants of health (SDH)** and cardiometabolic disease inequalities.
+- **Causal inference methods** and causal machine learning
+- **Population health modelling**, including disease burden estimation and policy microsimulation.
 
 ### Skills
 
