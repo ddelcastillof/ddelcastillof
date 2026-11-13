@@ -12,7 +12,7 @@ I'm a physician-epidemiologist investigating how economic and social determinant
 
 ### Research Focus
 - **Social determinants of health (SDH)** and cardiometabolic disease inequalities.
-- **Causal inference methods** and debiased machine learning
+- **Causal inference** and debiased machine learning
 - **Population health modelling**, including disease burden estimation and policy microsimulation.
 
 ### Skills
